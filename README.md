@@ -5,6 +5,9 @@ Nộp lần đầu 11h00 Thư mục Mach
 
 Nộp lần hai 18h20 Thư mục DocGhiThongTin
 
+Nộp lần ba 7h00 Thư mục Ketnoimaytinh
+
+
 Ý tưởng của Nhóm: infinity
 
 Vòng cổ quản lý thú cưng ở đô thị.
