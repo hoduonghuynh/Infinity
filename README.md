@@ -1,6 +1,8 @@
 # Infinity
 Hackathon 2017
+
 Nộp lần đầu 11h00 Thư mục Mach
+
 Nộp lần hai 18h20 Thư mục DocGhiThongTin
 
 Ý tưởng của Nhóm: infinity
