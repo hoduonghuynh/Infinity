@@ -1,3 +1,3 @@
 # Infinity
 Hackathon 2017
-Ndfộp lần đầu
+Nộp lần đầu
