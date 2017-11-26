@@ -7,6 +7,7 @@ Nộp lần hai 18h20 Thư mục DocGhiThongTin
 
 Nộp lần ba 7h00 Thư mục Ketnoimaytinh
 
+Nộp hoàn thiện
 
 Ý tưởng của Nhóm: infinity
 
